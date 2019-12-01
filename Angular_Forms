@@ -1,0 +1,5 @@
+Angular Form handing:- 
+	1. Template drive Approch
+		- Angular infers the form object from the DOM. 
+	2. Reactive
+		- Form is created programmatically and synchronized with the DOM
