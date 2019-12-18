@@ -1,18 +1,24 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ServerComponent } from './server/server.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,ServerComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+
+// angular uses component to create the we pages.
+// angular uses modules to bundle all the components
+// all the features will be defined in this module. 
+// it defines our entire application
+//
