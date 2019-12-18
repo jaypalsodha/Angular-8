@@ -22,3 +22,7 @@ export class AppModule { }
 // all the features will be defined in this module. 
 // it defines our entire application
 //
+
+// 2. run the application and see  
+
+//
