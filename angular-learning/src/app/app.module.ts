@@ -26,4 +26,6 @@ export class AppModule { }
 
 // 2. run the application and see  
 
-//
+// 3. create-component-cli {creating the servers component and display them}
+
+// 4. use-inline-template { use the inline tempalte instead of using the url}
